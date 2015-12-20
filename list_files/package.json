@@ -1,0 +1,18 @@
+{
+  "name": "list_files",
+  "version": "0.0.0",
+  "description": "A small program to list files in a folder, filtered on the basis of extension provided by the user.",
+  "main": "ls.js",
+  "scripts": {
+    "test": "echo 'Error : No tests specified.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bnprk/nodey.git"
+  },
+  "author": "bnprk <bnprk27@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/bnprk/nodey/issues"
+  }
+}
